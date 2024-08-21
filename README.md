@@ -1,6 +1,5 @@
 # Wepsite-buat-ayang
 Pertanyaan buat ayang
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -12,7 +11,7 @@ Pertanyaan buat ayang
   
   <center>
     <h1>i love you ayang depiiii🥰🥰</h1>
-    <img width="450" height="450" src="devi.jpg"></img>
+    <img width="450" height="450" src="devi.jpg">
     <a>jangan pernah ninggalin aga ya sayang, aga udah sayang banget sama devi.</a>
     <br>
     <br>
