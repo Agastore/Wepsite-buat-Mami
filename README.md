@@ -1,23 +1,30 @@
-# Wepsite-buat-Mami
-buat mami sayang
+# Wepsite-buat-Neneng
+buat Neneng 
 <html lang="en">
 <head>
-  <link rel="stylesheet" type="text/css" href="aga.css">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>untuk mami ku sayang</title>
+<title>Buat Neneng</title>
 </head>
 <body>
+     <center><h1><b>NENENG</b></h1></center>
+    <iframe width="565" height="1100" src="neneng.jpg" frameborder="2" ></iframe>
+    <br>
+  <br>
+     <a>Neneng adalah cewe yang saya cintai sejak tahun 2022,, kami bertemu ditahun 2022 saya bertemu di media sosmet salah satunya diwhatsapp dan saya mulai berteman dimedia lainnya seperti tiktok ig dan facebook. Dulu saya pernah mempunyai hubungan cinta dengan Neneng pada tanggal 15 - february - 2023 dan hubungan saya dengan neneng putus pada tanggal 15 - mei - 2023 saya mempunyai hubungan dengan Neneng selama 3 bulan dan hubungan itu hancur karena ego saya.
+     <br>
+     <br>
+        Singkat cerita saya dan Neneng seketikq los contack dan bertemu lagi pada tanggal 17 - oktober - 2023 saya dan Neneng pun saling bertukar cerita dan membahas hubungan kita dulu dan seketika menjadi asing lagi.
+        <br>
+        <br>
+        Dan pada tanggal 12 - april - 2024 dan saya disini masi mencintai seorang Bidadari yaitu Neneng, saya sering meminta foto Neneng untuk membuang rasa kangen saya kepada Neneng, dan pada hari ke-15 Neneng pun sudah slow responst atau lama membalas pesan saya, disini saya sangat kesal kepada Neneng sampai kehilangan kendali. Dipikiran saya hanya 1 ingin memperontas whatsapp Neneng. Disini pun saya tidak banyak berpikir saya langsung saja mengirim virus ke Whatsapp Neneng. Dan disini saya sangat menyesal telah mengirim virus ke Whatsapp Neneng. Saya frustasi setiap hari memikirkan neneng dan menatap fotonya yang sangat cantik bagaikan bidadari turun dari syurga, dan akhirnya saya berusaha melupakan Neneng.
+        <br>
+        <br>
+        Singkat cerita saya sudah mulai melupakan Neneng tetapi Neneng pun muncul kembali di dalam group disitu saya bahagia banget ketika dia masi mengingat saya, saya harap Neneng bisa membuka blokiran pada nomor saya, tetapi saya salah yang ada Neneng pun menghilang kembali. Disini saya pun mulai frustasi kembali karena Neneng. Saya terus mikirin Neneng.
+        <br> 
+        <br>
+        Dan pada tanggal 06 - oktober - 2024 saya pun mulai memberi pesan kepada Neneng saya sanget bahagia sekali bisa bertemu wanita yang saya sayangi dari dulu sampai sekarang, saya pun minta kepada Neneng untuk memperbaiki hubungan kita tetapi Neneng menolaknya secara terang terangan, disini saya sangat cemas takut kehilangan seseorang yang saya sayangi sejak dulu. Dan saya berharap bisa berhubungan kembali seperti dulu Neneng jika kamu tau aku masi mencintaimu sampai saat ini aku menyesal dengan kesalahanku aku minta maaf atas kesalahanku, sampai disini dulu cerita tentang Bidadari alias Neneng si cantik bagaikan Bidadari</a>
   
-<center>
-  <h1>Hallo, Mami</h1>
-  <h1>Angga kalo ada salah, Angga minta maaf ya mami</h1>
-  <h2>Sebentar lagi Angga kan udah berangkat PKL nih mii, mami baik baik yah di rumah, Mami juga jangan terlalu memikirkan Angga, Angga udah besar Angga juga udah dewasa, ini udah waktunya Angga belajar hidup mandiri tanpa mami, Angga maunya dari sekarang Angga mau berubah jadi lebih baik untuk kedepannya mami juga jangan terlalu banyak pikiran jaga kesehatan nya mami, Angga yakin. Angga suatu saat nanti akan sukses dan Angga pengen bawa mami ke mekkah amiinn...☺</h2>
-</center>
-<p>
-  <a>Angga sayang mami☺</a>
-  <a href="pencet.html">ketuk untuk beralih ke halaman berikutnya</a>
-</p>
 </body>
 </html>
